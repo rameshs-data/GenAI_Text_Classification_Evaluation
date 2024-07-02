@@ -1,7 +1,5 @@
 # Overview
-Welcome to the takehome assignment!
-## Instructions
-You've been given a short jupyter notebook that trains and evaluates a couple of models on a simple classification task.   
+ 
 There are two parts to this assignment: Coding & Brainstorming.
 #### Coding
 The notebook is full of issues, ranging from general poor coding & ML practices to silent bugs. We'd like you to clean up the notebook and fix those issues.    
